@@ -139,6 +139,10 @@ publish the website in the localHost.
 </html>
 
 ## Output:
+
+
+
+
 ![Screenshot from 2023-12-20 15-53-20](https://github.com/BHARATHI20MK/cover-page-design/assets/147474125/18d2263e-ebad-41ba-9299-dfd41e050da2)
 
 
